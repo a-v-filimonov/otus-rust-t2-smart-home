@@ -1,0 +1,1 @@
+# otus-rust-t2-smart-home
