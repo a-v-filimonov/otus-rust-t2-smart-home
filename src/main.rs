@@ -7,7 +7,7 @@ struct SmartSocket {
 }
 
 impl SmartSocket {
-    fn _new(description: &str) -> Self {
+    fn new(description: &str) -> Self {
         Self {
             description: String::from(description),
             is_enable: false,
