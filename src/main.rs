@@ -37,8 +37,8 @@ impl SmartSocket {
         self.curr_power_consumption = None;
     }
 
-    fn get_descriotion(&self) -> &str {
-        todo!();
+    fn get_description(&self) -> &str {
+        &self.description
     }
 }
 
